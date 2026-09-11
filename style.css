@@ -1,7 +1,7 @@
-/* ===== Google Font ===== */
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
 
-/* ===== Reset ===== */
+
 * {
     margin: 0;
     padding: 0;
@@ -25,7 +25,6 @@ ul {
     list-style: none;
 }
 
-/* ===== Header ===== */
 header {
     background: rgba(255, 255, 255, 0.95);
     box-shadow: 0 2px 15px rgba(108, 67, 160, 0.08);
@@ -69,7 +68,7 @@ header {
     color: #ff5c8a;
 }
 
-/* ===== Hero Section ===== */
+
 .hero {
     min-height: 90vh;
     padding: 90px 8%;
@@ -159,7 +158,6 @@ header {
     box-shadow: 0 12px 25px rgba(108, 67, 196, 0.35);
 }
 
-/* ===== Hero Card ===== */
 .hero-card {
     width: 330px;
     height: 350px;
@@ -201,7 +199,6 @@ header {
     font-size: 13px;
 }
 
-/* ===== Common Sections ===== */
 .section {
     padding: 90px 8%;
     max-width: 1300px;
@@ -231,7 +228,6 @@ header {
     color: #6c43c4;
 }
 
-/* ===== About ===== */
 .about {
     background: white;
     max-width: 100%;
@@ -272,7 +268,6 @@ header {
     font-size: 15px;
 }
 
-/* ===== Skills ===== */
 .skills-section {
     background: #f9f6ff;
     max-width: 100%;
@@ -343,7 +338,6 @@ header {
     color: #9990ad;
 }
 
-/* ===== Project ===== */
 .project-card {
     max-width: 900px;
     margin: auto;
@@ -390,7 +384,6 @@ header {
     font-weight: 600;
 }
 
-/* ===== Hobbies ===== */
 .hobbies-section {
     background: #fff5fb;
     max-width: 100%;
@@ -433,7 +426,6 @@ header {
     color: #9990ad;
 }
 
-/* ===== Contact ===== */
 .contact-section {
     background: #f9f6ff;
     max-width: 100%;
@@ -519,7 +511,6 @@ header {
     box-shadow: none;
 }
 
-/* ===== Footer ===== */
 footer {
     background: #29234a;
     color: #d8c9ff;
@@ -528,7 +519,7 @@ footer {
     font-size: 12px;
 }
 
-/* ===== Responsive Design ===== */
+
 @media (max-width: 900px) {
     .hero {
         padding: 70px 6%;
